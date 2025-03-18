@@ -4,7 +4,7 @@
 
 ## **Descripción**
 
-Este proyecto es una aplicación web interactiva que interpreta sueños utilizando inteligencia artificial. Los usuarios pueden describir sus sueños en un cuadro de texto, y la aplicación generará una interpretación creativa basada en el modelo de lenguaje proporcionado por [OpenRouter AI](https://openrouter.ai).
+Este proyecto es una aplicación web interactiva que interpreta sueños utilizando inteligencia artificial. Los usuarios pueden describir sus sueños en un cuadro de texto, y la aplicación generará una interpretación creativa basada en el modelo de lenguaje proporcionado por DeepSeek:R1
 
 La interfaz está diseñada para ser intuitiva y visualmente atractiva, con soporte para modo oscuro/claro, animaciones suaves y un video de fondo dinámico.
 
