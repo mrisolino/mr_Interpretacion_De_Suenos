@@ -55,8 +55,9 @@ La interfaz está diseñada para ser intuitiva y visualmente atractiva, con sopo
    npm install
    
 3. **Configura la Clave API**
-   Modifica tu API-KEY en /src/App.tsx 
-   Linea 4
+   
+   Modifica tu API-KEY en /src/App.tsx en Linea 4
+
    ```bash
    const API_KEY = "[API-KEY]"; // Change key
 
