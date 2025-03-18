@@ -53,12 +53,12 @@ La interfaz está diseñada para ser intuitiva y visualmente atractiva, con sopo
 2. **Instala las Dependencia**
    ```bash
    npm install
-
+   
 3. **Configura la Clave API**
-   Crea un archivo .env en la raíz del proyecto.
-   Agrega tu clave API de OpenRouter:
-   ```env
-   REACT_APP_OPENROUTER_API_KEY=sk-or-v1-tu-clave-api-aqui
+   Modifica tu API-KEY en /src/App.tsx 
+   Linea 4
+   ```bash
+   const API_KEY = "[API-KEY]"; // Change key
 
 4. **Ejecuta la Aplicación**
    ```bash
