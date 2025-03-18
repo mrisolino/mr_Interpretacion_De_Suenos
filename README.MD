@@ -1,7 +1,4 @@
-# **Intérprete de Sueños**
-
-![Banner](https://via.placeholder.com/800x200?text=Interprete+de+Sueños)  
-*(Reemplaza esta URL con una imagen personalizada si deseas agregar un banner visual al repositorio)*
+# **Intérprete de Sueños** 💤
 
 ---
 
