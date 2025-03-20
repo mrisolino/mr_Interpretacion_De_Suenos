@@ -53,13 +53,13 @@ La interfaz está diseñada para ser intuitiva y visualmente atractiva, con sopo
 2. **Instala las Dependencia**
    ```bash
    npm install
-   
-3. **Configura la Clave API**
-   
-   Modifica tu API-KEY en /src/App.tsx en Linea 4
 
-   ```bash
-   const API_KEY = "[API-KEY]"; // Change key
+3. **Configura la Clave API**  
+
+   Guarda tu clave API en un archivo `.env` en la raíz del proyecto:  
+
+   ```plaintext
+   VITE_APP_OPENROUTER_API_KEY=[TU-API-KEY]
 
 4. **Ejecuta la Aplicación**
    ```bash
