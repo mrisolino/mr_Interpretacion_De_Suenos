@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Moon, Sun, Send, Loader2 } from 'lucide-react';
 
-const API_KEY = "[API-KEY]"; // Change key
+const API_KEY =  import.meta.env.VITE_APP_OPENROUTER_API_KEY;
 
 
 function App() {
